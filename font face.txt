@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'fontName',
-    src: url(fontName.eot) format('eot'),
-    src: url(fontName.woff) format('woff),
-    src: url(fontName.woff2) format('woff2),
+    font-family: 'vazir';
+    src: url(font/vazir/Vazir-Bold-FD-WOL.woff2) format('woff2'),
+    url(font/vazir/Vazir-Bold-FD-WOL.woff) format('woff'),
+    url(font/vazir/Vazir-Bold-FD-WOL.eot) format('eot');
 }
